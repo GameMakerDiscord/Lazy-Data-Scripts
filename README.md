@@ -1,3 +1,5 @@
+###### Lazyeye's Data Scripts
+
 Do you love data as much as I do? If so, you may be a bit frustrated at how working in GMS isn't quite as elegant as other languages. Fear not! This collection of scripts adds many "missing" or otherwise useful functions to be used inside of GMS2. This is a library that I have constructed for the past few months whenever I had need for a new script. I will more than likely be adding more as I come up with more ideas. 
 
 If you have ideas for other functions, let me know and I'll look into making them!
